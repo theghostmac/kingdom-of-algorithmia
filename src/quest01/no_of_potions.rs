@@ -1,8 +1,3 @@
-
-// get characters
-// map the characters to their values
-// return the sum of the values
-
 use std::{fs::File, io::{self, BufRead}};
 
 fn read_input() -> Vec<String> {
